@@ -1,2 +1,1 @@
-//git test
-//another git test
+//git test 중입니다
